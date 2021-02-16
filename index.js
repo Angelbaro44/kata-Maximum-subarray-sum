@@ -8,7 +8,7 @@
 
 
 
-var maxSequence = function(arr){
+var maxSequence = function(arr){ 
       let sumStream=0;
       let maxNum=0;
         for(let i=0; i < arr.length;i++){
